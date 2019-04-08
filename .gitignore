@@ -1,6 +1,9 @@
 # Compiled Lua sources
 luac.out
 
+# Office hidden save backups
+.~*
+
 # luarocks build files
 *.src.rock
 *.zip
